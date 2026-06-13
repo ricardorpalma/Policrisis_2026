@@ -12,13 +12,13 @@
 
 [Agenda](Agenda.md)
 
-[[Actividades]]
+[Actividades](Actividades.md)
 
-[[Escenarios]]
+[Escenarios](Escenarios.md)
 
-[[Periodistas_y_Medios]]
+[Periodistas_y_Medios]]Periodistas y Medios)
 
-[[Oportunidades Laborales]]
+[Oportunidades Laborales](Oportunidades Laborales)
 
 
 
