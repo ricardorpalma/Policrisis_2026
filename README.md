@@ -16,9 +16,17 @@
 
 [Escenarios](Escenarios.md)
 
-[Periodistas_y_Medios]]Periodistas y Medios)
+[Periodistas_y_Medios]Periodistas y Medios.md)
 
-[Oportunidades Laborales](Oportunidades Laborales)
+[Oportunidades Laborales](Oportunidades Laborales.md)
 
+<hr>
 
+Grupo 1  <mark>Francesca Bria</mark>
+
+Grupo 2 <mark>Giuliano Da Empoli</mark>
+
+Grupo 3 <mark>Bulnerabilidades</mark>
+
+Grupo 4 <mark>Método de los Escenarios</mark>
 
