@@ -9,7 +9,7 @@
 
 ![[Pasted image 20260612180819.png]]
 
-![[portada.png|601]]  [[Agenda.md]]
+![portada.png|601]  <Agenda.md>
 
 [[Actividades]]
 
