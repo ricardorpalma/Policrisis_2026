@@ -7,9 +7,10 @@
 <https://ricardorpalma.github.io/Marca_2026/>
 
 
-![[Pasted image 20260612180819.png]]
+![Pasted image 20260612180819.png](Pasted image 20260612180819.png)
 
-![portada.png](Agenda.md)
+
+[Agenda](Agenda.md)
 
 [[Actividades]]
 
